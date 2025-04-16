@@ -1,0 +1,13 @@
+{
+    "format_version": "1.21.40",
+    /* Milky Way */
+    // Moon
+    "galaxycraft:moon_stone": {
+        "sound": "stone",
+        "textures": "moon_stone"
+    },
+    "galaxycraft:deep_moon_stone": {
+        "sound": "stone",
+        "textures": "deep_moon_stone"
+    }
+}

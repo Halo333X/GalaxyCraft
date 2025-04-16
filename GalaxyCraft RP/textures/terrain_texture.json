@@ -1,0 +1,16 @@
+{
+    "num_mip_levels": 4,
+    "padding": 8,
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        /* Milky Way */
+
+        // Moon
+        "moon_stone": {
+            "textures": "textures/blocks/milky_way/moon/moon_stone"
+        },
+        "deep_moon_stone": {
+            "textures": "textures/blocks/milky_way/moon/deep_moon_stone"
+        }
+    }
+}
