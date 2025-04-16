@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "GalaxyCraft RP",
+        "description": "By @Halo333XYT and @elcorderin",
+        "min_engine_version": [
+            1,
+            21,
+            50
+        ],
+        "uuid": "911298f4-6cd9-42e2-b3f0-3481f7698d0b",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "resource",
+            "type": "resources",
+            "uuid": "f27841e6-1106-4bcd-b1fa-8a1791d2806d",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
